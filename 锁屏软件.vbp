@@ -1,0 +1,53 @@
+Type=Exe
+Form=Form1.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Form=Form2.frm
+Module=屏蔽系统热键; 屏蔽系统热键.bas
+IconForm="Form1"
+Startup="Form1"
+HelpFile=""
+Title="锁屏软件"
+ExeName32="锁屏软件.exe"
+Command32=""
+Name="锁屏软件"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=5
+MinorVer=2
+RevisionVer=1
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="小眼软件 刘子超"
+VersionFileDescription="最新锁屏软件 支持程序参数 (2543280836)"
+VersionProductName="新版锁屏软件 可以使用程序参数  例如 创建快捷方式>目标>"C:\锁屏软件.exe 123"   就会直接把密码设置为"123""
+CompilationType=-1
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[AmicForVB]
+XPSTYLE=0
+DLLOUT=0
+EXPORT=
+ASMCODE=0
+ENTRY=DllMain
+ICONFILE=
+BOOLICON=0
+SUBSYSTEM=0
+BOOLLOADER=0
+BOOLGC=0
+GCFILE=
